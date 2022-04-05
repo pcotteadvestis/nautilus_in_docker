@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=dockerexe
+Comment=Open Nautilus inside a Docker
+Terminal=true
+Exec=gnome-terminal -e "bash -c 'cd /home/pcotte/Bureau/docker_exe && ./execute.sh'"
+Type=Application
+Icon=/home/pcotte/Bureau/docker_exe/icon.png
